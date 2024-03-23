@@ -1,20 +1,17 @@
 {
-  "name": "alish4m18cli-project--number_guessing",
-  "version": "1.0.0",
-  "description": "",
+  "name": "a18lish1cli-project--number_guessing",
+  "version": "1.0.2",
+  "description": "This is cli based numbers guessing game",
   "main": "index.js",
   "type": "module",
-  "publishConfig": {
-    "access": "public"
-  },
   "bin": "index.js",
-  
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "\"Alishba\"",
   "license": "ISC",
   "dependencies": {
+    "a18lis1cli-project--number_guessing": "^1.0.1",
     "inquirer": "^9.2.16"
   },
   "devDependencies": {
